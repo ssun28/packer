@@ -1,4 +1,7 @@
 
+variable "untyped" {
+}
+
 variable "fruit" {
     type = string
 }
